@@ -22,4 +22,3 @@ Install dependencies using:
 
 ```bash
 pip install SpeechRecognition pyaudio
-

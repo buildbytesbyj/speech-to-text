@@ -1,0 +1,7 @@
+SpeechRecognition
+pydub
+sounddevice
+soundfile
+tqdm
+rich
+vosk
